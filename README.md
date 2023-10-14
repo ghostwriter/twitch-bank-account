@@ -1,6 +1,6 @@
-# twitch-bank-account
+twitch# twitch-bank-account
 
-This is a skelton for a bank-account project proposed on stream via Twitch.
+This is a skelton for a bank-account project proposed by https://twitch.tv/fritfritado3000 on stream via Twitch.
 
 > **Warning**
 >
