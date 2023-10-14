@@ -1,0 +1,22 @@
+{
+    "name": "ghostwriter/twitch-bank-account",
+    "autoload": {
+        "psr-4": {
+            "Ghostwriter\\StreamQuestion\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Ghostwriter\\StreamQuestion\\Tests\\": "tests"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nathanael Esayeas",
+            "email": "nathanael.esayeas@protonmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^10.4"
+    }
+}
